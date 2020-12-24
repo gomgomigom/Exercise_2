@@ -60,3 +60,4 @@ key_functions = ['read_image', 'save_image', 'display', 'invert', 'merge']
 non_key_functions = ['get_size', 'empty_image', 'invert_bit', 'or_bits']
 print(all(x in dir(cil) for x in key_functions))
 print(not any(x in dir(cil) for x in non_key_functions))
+
