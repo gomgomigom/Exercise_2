@@ -1,0 +1,11 @@
+cat: 고양이
+apple: 사과
+indent: 들여쓰다
+unexpected: 예기치않은, 예상밖의, 뜻밖의
+revenue: 수익
+iterate: 반복하다
+argument: 논쟁, 언쟁, 말다툼, 논거, 주장
+palindrome: 회문
+digit: 숫자
+assignment: 과제, 임무, 배정, 배치
+honey: 꿀
